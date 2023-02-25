@@ -1,0 +1,6 @@
+﻿  main2.cpp
+C:\서강대\2022-2\알고리즘\HW3_S20192134\prim\prim\main2.cpp(174,31): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\서강대\2022-2\알고리즘\HW3_S20192134\prim\prim\main2.cpp(175,31): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\서강대\2022-2\알고리즘\HW3_S20192134\prim\prim\main2.cpp(134,8): warning C4101: 'fp_in' :참조되지 않은 지역 변수입니다.
+C:\서강대\2022-2\알고리즘\HW3_S20192134\prim\prim\main2.cpp(137,32): warning C4101: 'total_weight' :참조되지 않은 지역 변수입니다.
+  prim.vcxproj -> C:\서강대\2022-2\알고리즘\HW3_S20192134\prim\x64\Debug\prim.exe

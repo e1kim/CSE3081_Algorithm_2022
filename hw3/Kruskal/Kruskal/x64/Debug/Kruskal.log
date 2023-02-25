@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\서강대\2022-2\알고리즘\HW3_S20192134\Kruskal\Kruskal\main.cpp(55,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\서강대\2022-2\알고리즘\HW3_S20192134\Kruskal\Kruskal\main.cpp(97,7): warning C4101: 'WHERE' :참조되지 않은 지역 변수입니다.
+C:\서강대\2022-2\알고리즘\HW3_S20192134\Kruskal\Kruskal\main.cpp(102,17): warning C4101: 'fp_out' :참조되지 않은 지역 변수입니다.
+C:\서강대\2022-2\알고리즘\HW3_S20192134\Kruskal\Kruskal\main.cpp(102,8): warning C4101: 'fp_in' :참조되지 않은 지역 변수입니다.
+C:\서강대\2022-2\알고리즘\HW3_S20192134\Kruskal\Kruskal\main.cpp(105,32): warning C4101: 'total_weight' :참조되지 않은 지역 변수입니다.
+C:\서강대\2022-2\알고리즘\HW3_S20192134\Kruskal\Kruskal\main.cpp(104,9): warning C4101: 'connected_cnt' :참조되지 않은 지역 변수입니다.
+  Kruskal.vcxproj -> C:\서강대\2022-2\알고리즘\HW3_S20192134\Kruskal\x64\Debug\Kruskal.exe

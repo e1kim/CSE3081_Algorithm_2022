@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\서강대\2022-2\알고리즘\HW3_S20192134\Kruskal\Kruskal\main.cpp(31,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\서강대\2022-2\알고리즘\HW3_S20192134\Kruskal\Kruskal\main.cpp(186,17): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\서강대\2022-2\알고리즘\HW3_S20192134\Kruskal\Kruskal\main.cpp(213,19): warning C4477: 'fprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
+C:\서강대\2022-2\알고리즘\HW3_S20192134\Kruskal\Kruskal\main.cpp(213,19): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\서강대\2022-2\알고리즘\HW3_S20192134\Kruskal\Kruskal\main.cpp(213,19): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\서강대\2022-2\알고리즘\HW3_S20192134\Kruskal\Kruskal\main.cpp(213,19): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\서강대\2022-2\알고리즘\HW3_S20192134\Kruskal\Kruskal\main.cpp(144,8): warning C4101: 'fp_in' :참조되지 않은 지역 변수입니다.
+C:\서강대\2022-2\알고리즘\HW3_S20192134\Kruskal\Kruskal\main.cpp(147,32): warning C4101: 'total_weight' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  1 of 14 functions ( 7.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Kruskal.vcxproj -> C:\서강대\2022-2\알고리즘\HW3_S20192134\Kruskal\x64\Release\Kruskal.exe
